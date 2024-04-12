@@ -1,0 +1,5 @@
+file-log ../logs.txt
+file-output ../out.txt
+address-start 100.0.0.0
+time-start 01.01.2021
+time-end 30.12.2022
